@@ -1,0 +1,29 @@
+.post-list-container {
+    >form {
+        margin-bottom: 15px;
+    }
+    .col-sm-10 {
+        .input-group {
+            margin-bottom: 10px;
+        }
+    }
+    .col-sm-2 {
+        .input-group {
+            >button {
+                background: #6f5499;
+                color: #fff;
+            }
+        }
+    }
+    .post-item-container {
+        // padding-bottom: 20px;
+        margin-bottom: 30px;
+        border-bottom: 1px solid #d9d9d9;
+        a {
+            text-decoration: none;
+        }
+        .side-cont {
+            color: #6f5499;
+        }
+    }
+}
